@@ -2,7 +2,7 @@
 
 Original Code from https://github.com/dgunter/evtxtoelk
 
-Little tweaks for Latsters SOF-ELK
+Little tweaks for Lastest SOF-ELK 
 
 Some customization for SOF-ELK, download VM from
 
