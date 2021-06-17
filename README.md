@@ -1,6 +1,6 @@
 # evtx2sof-elk
 
-Original Code from https://github.com/dgunter/evtxtoelk
+Original Code from https://github.com/benrau87/sof-elk-setup
 
 Little tweaks for Lastest SOF-ELK 
 
